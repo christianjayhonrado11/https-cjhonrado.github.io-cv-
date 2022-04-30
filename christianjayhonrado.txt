@@ -1,0 +1,63 @@
+<html><head>
+    <meta charset="utf-8">
+    <title>Chistian Jay Honrado Personal Site</title>
+    <link rel="stylesheet" href="css/styles.css">
+  <style></style></head>
+
+  <body>
+    <table cellspacing="20">
+      <tbody><tr>
+        <td><img src="https://www.facebook.com/photo/?fbid=651461665993169&set=a.110113883461286" alt="ChristianJay profile picture"></td>
+        <td><h1>CristianJay Honrado</h1>
+        <p><em> Students in  <strong><a href="https://psu.edu.ph/psu-bayambang-campus-officials/">PSU Bayambang</a></strong>.</em></p>
+        <p>I am 2nd year BSIT student in PSU Bayambang. </p></td>
+      </tr>
+    </tbody></table>
+    <hr>
+    <h3>Educational Background</h3>
+    <ul>
+	
+	<li>Bayambang National High School</li>
+	
+	<li>Technical Vocational and Livelihood</li>
+	<li>ICT</li>
+	
+      <li>PSU Bayambang</li>
+	  
+      <li>Bachelor of Science in Information Technology</li>
+	  <li>2nd Year</li>
+    </ul>
+    <hr>
+    <h3>Work Experience</h3>
+    <table cellspacing="10">
+      <thead>
+        <tr>
+          <th>Dates</th>
+          <th>Work</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>2019-2020</td>
+          <td>Work Immerssion</td>
+        </tr>
+      </tbody>
+    </table>
+    <hr>
+    <h3>Skills</h3>
+    <table cellspacing="10">
+      <tbody><tr>
+        <td>CSS</td>
+        <td>⭐️⭐️⭐️</td>
+      </tr>
+      <tr>
+        <td>HTML</td>
+        <td>⭐️⭐️⭐️⭐️⭐</td>
+      </tr>
+    </tbody></table>
+    <hr>
+    <a href="1.https://www.google.com/search?sxsrf=ALiCzsZCmbkHIhu2RQlWcwJNdt1JjPnSmw:1651297312740&q=playing+basketball+hobby&spell=1&sa=X&ved=2ahUKEwjqhfrtibv3AhWcS2wGHXWoBfsQirwEKAB6BAgBEDI&biw=1360&bih=568&dpr=1 2.https://www.internetmatters.org/resources/online-gaming-advice/online-gaming-the-benefits/">My Hobbies</a>
+    <a href="contact-me.html">Contact Me</a>
+  
+
+</body></html>
